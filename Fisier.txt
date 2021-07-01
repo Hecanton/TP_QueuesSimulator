@@ -1,0 +1,49 @@
+
+Timp: 0
+Waiting clients: (1 2 2); (2 3 1); (4 3 3); (3 4 3); 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:closed 
+Queue 4:closed 
+Timp: 1
+Waiting clients: (1 2 2); (2 3 1); (4 3 3); (3 4 3); 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:closed 
+Queue 4:closed 
+Timp: 2
+Waiting clients: (2 3 1); (4 3 3); (3 4 3); 
+Queue 1:(1 2 2); 
+Queue 2:closed 
+Queue 3:closed 
+Queue 4:closed 
+Timp: 3
+Waiting clients: (3 4 3); 
+Queue 1:(1 2 1); 
+Queue 2:(2 3 1); 
+Queue 3:(4 3 3); 
+Queue 4:closed 
+Timp: 4
+Waiting clients: 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:(4 3 2); 
+Queue 4:(3 4 3); 
+Timp: 5
+Waiting clients: 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:(4 3 1); 
+Queue 4:(3 4 2); 
+Timp: 6
+Waiting clients: 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:closed 
+Queue 4:(3 4 1); 
+Timp: 7
+Waiting clients: 
+Queue 1:closed 
+Queue 2:closed 
+Queue 3:closed 
+Queue 4:closed 
